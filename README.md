@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Live Link](bike-center-4ba16.firebaseapp.com).
+This project was bootstrapped with [Live Link](https://bike-center-4ba16.firebaseapp.com/).
 
 ## Available Scripts
 
